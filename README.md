@@ -1,5 +1,8 @@
 # 🥒 Pickle Rick's Rug Roaster
 
+<img src="resources/pickle_rick_rug_roaster.png" width="600" alt="Pickle Rick Rug Roaster">
+
+
 A cynical Gemini CLI extension that analyzes crypto projects and delivers a scathing roast about their potential as a rug pull. Wubba lubba dub dub!
 
 ## What is this?
