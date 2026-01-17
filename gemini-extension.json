@@ -1,5 +1,5 @@
 {
   "name": "rug-roaster",
-  "description": "An extension that embodies the Pickle Rick persona to analyze Twitter/GitHub links and scathingly critique their potential as a rug pull.",
-  "context": "GEMINI.md"
+  "version": "0.1.0",  
+  "contextFileName": "GEMINI.md"
 }
