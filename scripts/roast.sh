@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-SRC_DIR="$SCRIPT_DIR/../src"
+SRC_DIR="$SCRIPT_DIR/src"
 
 URL=$1
 
