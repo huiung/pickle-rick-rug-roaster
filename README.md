@@ -39,6 +39,12 @@ This is an extension for the Gemini CLI. If you don't have it, install it first.
 npm install -g @google/gemini-cli
 ```
 
+### 3. Install with Gemini CLI Extension Command
+
+```bash
+gemini extensions install https://github.com/huiung/pickle-rick-rug-roaster
+```
+
 ### 2. Install with Homebrew (macOS)
 
 1.  **Tap the repository:**
