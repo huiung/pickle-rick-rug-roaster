@@ -23,6 +23,6 @@ Analyzes the given URL (Twitter or GitHub) and returns Pickle Rick's scathing as
 1.  User runs the `/roast` command.
 2.  The `reinforce-persona.sh` hook injects Pickle Rick's persona and issues a warning message.
 3.  `roast.sh` script determines if the URL is for GitHub or Twitter.
-4.  It calls the appropriate analysis skill (`github_analyzer.py` or `twitter_analyzer.py`) to extract quantitative data.
-5.  The analysis results are piped to the `report_generator.py` skill.
+4.  It calls the appropriate analysis (`github_analyzer.py` or `twitter_analyzer.py`) to extract quantitative data.
+5.  The analysis results are piped to the `report_generator.py`.
 6.  `report_generator.py` generates and prints the final, in-character report based on the received data.
