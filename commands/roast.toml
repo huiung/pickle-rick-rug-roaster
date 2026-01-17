@@ -1,0 +1,4 @@
+name = "/roast"
+description = "Analyzes a GitHub or Twitter link and delivers a scathing Pickle Rick-style roast about its potential as a rug pull."
+usage = "/roast <url>"
+script = "scripts/roast.sh"
